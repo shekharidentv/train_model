@@ -1,0 +1,12 @@
+train: /home/shekhar/identv/train_models/yolo/dataset/train/images
+val: /home/shekhar/identv/train_models/yolo/dataset/validation/images
+test: /home/shekhar/identv/train_models/yolo/dataset/test/images
+
+nc: 18
+names: ['item']
+roboflow:
+  workspace: news
+  project: retail
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/news/vegetables-mr0jj/dataset/3

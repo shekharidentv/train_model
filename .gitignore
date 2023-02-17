@@ -1,6 +1,7 @@
-./dataset
-./detectron2_model/dataset
-./images
-./out
-./runs/
-./yolo/dataset
+dataset
+detectron2_model/dataset
+images
+out
+runs/
+yolo/dataset
+*.pt
